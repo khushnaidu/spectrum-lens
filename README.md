@@ -1,4 +1,4 @@
-# Mimir: Political Analysis Tool
+# Spectrum Lens
 
 Mimir is an advanced political analysis tool that combines retrieval-augmented generation (RAG) with lightweight open-source models to provide nuanced political insights. The system retrieves relevant political discourse from Reddit and recent news articles, then generates balanced analysis across the political spectrum.
 
